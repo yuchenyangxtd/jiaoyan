@@ -1,5 +1,5 @@
 // NestJS 后端 API 客户端
-const BASE_URL = 'http://localhost:3000/api'
+const BASE_URL = '/api'
 
 let token: string | null = localStorage.getItem('token')
 
