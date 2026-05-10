@@ -1,0 +1,10 @@
+{
+  "name": "jiaoyan-system",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter client dev",
+    "build": "pnpm --filter client build",
+    "server:dev": "pnpm --filter server dev",
+    "server:start": "pnpm --filter server start"
+  }
+}

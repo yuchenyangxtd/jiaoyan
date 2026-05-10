@@ -1,0 +1,7 @@
+packages:
+  - 'client'
+  - 'server'
+allowBuilds:
+  esbuild: true
+  vue-demi: true
+  '@nestjs/core': true
